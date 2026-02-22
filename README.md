@@ -5,6 +5,9 @@ npm install
 npm start
 ```
 
+#About Project
+Simple Project For Displaying Scoreboard of Two Basket Ball Teams
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
